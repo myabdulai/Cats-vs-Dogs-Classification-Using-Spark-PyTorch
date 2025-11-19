@@ -1,0 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-CPU--Only-orange)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.x-red)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
